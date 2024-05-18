@@ -1,0 +1,35 @@
+baseURL = "https://www.st0rm.win"
+theme = "risotto"
+title = "frostalicious"
+author = "frosty"
+
+[params.theme]
+palette = "gruvbox-dark"
+
+[params.about]
+title = "frostalicious"
+description = "Hobbyist developer and Linux enthusiast"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-gitlab"
+title = "GitLab"
+url = "https://github.com/frostalicious"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-flickr"
+title = "Flickr"
+url = "https://www.flickr.com/photos/frostyfalls"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:passedgoandgot200@gmail.com"
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+
+[markup.goldmark.renderer]
+unsafe = true
