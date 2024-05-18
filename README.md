@@ -1,6 +1,6 @@
 # www
 
-Personal website, nothing much to see here. It's built with Hugo using the risotto theme. All of the heavy lifting is done by those two.
+Personal website, nothing much to see here. It's built with [Hugo](https://gohugo.io/) using the [risotto](https://github.com/joeroe/risotto) theme. All of the heavy lifting is done by those two.
 
 ## Running
 
