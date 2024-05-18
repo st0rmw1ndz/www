@@ -13,7 +13,7 @@ description = "Hobbyist developer and Linux enthusiast"
 [[params.socialLinks]]
 icon = "fa-brands fa-gitlab"
 title = "GitLab"
-url = "https://github.com/frostalicious"
+url = "https://gitlab.com/frostalicious"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-flickr"
