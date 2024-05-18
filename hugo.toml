@@ -18,7 +18,7 @@ url = "https://gitlab.com/frostalicious"
 [[params.socialLinks]]
 icon = "fa-brands fa-flickr"
 title = "Flickr"
-url = "https://www.flickr.com/photos/frostyfalls"
+url = "https://flickr.com/photos/frostyfalls"
 
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
