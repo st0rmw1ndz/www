@@ -8,7 +8,7 @@ palette = "gruvbox-dark"
 
 [params.about]
 title = "frosty"
-description = "Hobbyist developer and Linux enthusiast"
+description = "Linux enthusiast and wannabe developer"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-git-alt"
