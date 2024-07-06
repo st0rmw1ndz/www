@@ -1,24 +1,29 @@
 baseURL = "https://st0rm.win"
 theme = "risotto"
-title = "frostalicious"
+title = "frosty@world"
 author = "frosty"
 
 [params.theme]
 palette = "gruvbox-dark"
 
 [params.about]
-title = "frostalicious"
+title = "frosty"
 description = "Hobbyist developer and Linux enthusiast"
 
 [[params.socialLinks]]
-icon = "fa-brands fa-gitlab"
-title = "GitLab"
-url = "https://gitlab.com/frostalicious"
+icon = "fa-brands fa-git-alt"
+title = "Codeberg"
+url = "https://codeberg.org/frosty"
 
 [[params.socialLinks]]
-icon = "fa-brands fa-flickr"
+icon = "fa-solid fa-camera"
 title = "Flickr"
 url = "https://flickr.com/photos/frostyfalls"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-comment"
+title = "Fediverse"
+url = "https://wetdry.world/@broadview"
 
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
@@ -29,6 +34,12 @@ url = "mailto:passedgoandgot200@gmail.com"
 identifier = "about"
 name = "About"
 url = "/about/"
+weight = 10
+
+[[menu.main]]
+identifier = "machines"
+name = "Machines"
+url = "/machines/"
 weight = 10
 
 [markup.goldmark.renderer]

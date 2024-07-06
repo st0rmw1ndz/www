@@ -1,7 +1,7 @@
 # Welcome
 
-Hello and welcome, this is my personal website. It's fairly lackluster at the moment, but I plan to expand it as time passes with more interesting things whenever I see fit.
+Hello, and welcome! This is my little playground for messing around with ideas on the web. It's fairly lackluster at the moment, but I plan to expand it as time passes with more interesting things.
 
-If you'd like to learn more about me, you can check the [about](about) page. With all that being said, have fun exploring.
+For the moment, you're able to check out the [about](/about) page which has a little more information about me, as well as the [machines](/machines) page for info on some of the machines I use (all run Linux!).
 
 <a rel="me" href="https://wetdry.world/@broadview"></a>
